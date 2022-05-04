@@ -1,0 +1,5 @@
+*.DS_Store
+/object_detection/timelapse
+*.png
+*.jpg
+*.JPG
